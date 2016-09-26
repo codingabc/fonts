@@ -1,0 +1,1 @@
+powerline-fonts: https://github.com/Lokaltog/powerline-fonts
